@@ -1,0 +1,41 @@
+"Classic 47" Variant Bill of Materials
+
+
+Capacitors
+Note: Cap brands are listed here for historical note only.
+
+Electrolytic
+CD1, CD4, CD5, CD8 - 47uf 25V [Elna RE3] - Quantity: 4
+CD2, CD3, CD6, CD7 - 47uf 63V [Panasonic FC] - Quantity: 4
+CD9 - 220uf 35V [Nippon Chemicon LXZ] - Quantity: 1
+
+Film
+C1 - 100nf 100V [EPCOS - TDK Electronics B32529] - Quantity: 1
+
+
+Resistors
+Note: All resistors are metal film type at 1% tolerance, rated at 0.25W.
+
+RE8, RE10 - 2K - Quantity: 2
+RE7, RE9, RE13 - 10K - Quantity: 3
+RE1, RE2, RE3, RE4, RE5, RE6 - 22K - Quantity: 6
+RE11, RE12 - 100K - Quantity: 2
+
+
+ICs
+IC1, IC2 - LM358, NE5532, TL072, TLE2072 - Quantity: 2
+
+
+Misc
+IC1, IC2 - 8-Pin Sockets - Quantity: 2
+GND, VCC - Power Tap, 2-pin - Quantity: 1
+PHONE1, PHONE2 - 3.5mm Phono Jacks - Quantity: 2
+RP1 - Potentiometer [Bourns PTD90-like], 50KOhm - Quantity: 1
+LED1 - LED, 3mm to 5mm - Quantity: 1
+GND (right edge) - wire shield to ground/earth
+
+
+Notes
+RP1 is based on the Bourns PTD90 series 2-ganged potentiometer on the original
+PCB. If the build is used for another design, any 50K ohm, dual-ganged linear
+potentiometer can be used.
