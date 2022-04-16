@@ -1,5 +1,11 @@
-"Classic 47" Variant Bill of Materials
+"Classic 47" Variant Amp
+Bill of Materials
 
+Product name: 47-PB0 DA1
+PCB name: OPAMP-PRO
+PCB design: L0094
+
+--
 
 Capacitors
 Note: Cap brands are listed here for historical note only.
